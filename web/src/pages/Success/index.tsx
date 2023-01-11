@@ -11,7 +11,7 @@ import { useLocation, useNavigate } from "react-router-dom";
 // Hook
 import { useCart } from "../../hooks/useCart";
 // Images
-import successImage from "../../assets/success/illustration.png";
+import successImage from "../../assets/success/illustration.svg";
 // Icons
 import { CurrencyDollar, MapPin, Timer } from "phosphor-react";
 // Styles
