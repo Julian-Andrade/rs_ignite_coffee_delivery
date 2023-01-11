@@ -25,4 +25,16 @@ export const GlobalStyle = createGlobalStyle`
   button {
     cursor: pointer;
   }
+
+  // Retirar as setas de adição e subtração do input tipo number
+  input::-webkit-out-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0
+  }
+
+  input[type="number"] {
+    -moz-appearance: textfield;
+  }
+  // Retirar as setas de adição e subtração do input tipo number
 `;
