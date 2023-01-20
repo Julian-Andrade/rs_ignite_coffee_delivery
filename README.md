@@ -50,9 +50,11 @@ yarn server
 
 *Web*
 
-<a href="https://rs-ignite-coffee-delivery.vercel.app/" rel="nofollow">
-  <img src="https://img.shields.io/badge/Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white" style="max-width: 100%;" align="center">
-</a>
+<p align="center">
+  <a href="https://rs-ignite-coffee-delivery.vercel.app/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Deploy-D14836?style=for-the-badge&logo=vercel&logoColor=white" style="max-width: 100%;" align="center">
+  </a>
+</p>
 
 ![web_01](https://uploaddeimagens.com.br/images/004/305/983/original/coffee_delivery_01.PNG?1674227256)
 ![web_02](https://uploaddeimagens.com.br/images/004/305/984/original/coffee_delivery_02.PNG?1674227287)
