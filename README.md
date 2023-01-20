@@ -25,9 +25,6 @@ $ cd "nome da pasta" \ cd "folder name"
 # Instale todas as dependências \ Install all dependencies
 $ npm install
 
-# Inicie o servidor dentro do terminal "server" \ Start the server inside the terminal "server"
-$ npm run dev
-
 # Observações \ Observations
 
 ```
