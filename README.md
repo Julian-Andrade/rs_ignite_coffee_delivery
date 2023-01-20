@@ -39,11 +39,23 @@ npm run dev
 # Linux
 yarn dev
 ```
+Backend
+
+```sh
+# Windows
+npm run server
+# Linux
+yarn server
+```
+
+
 ***:eye_speech_bubble: Demonstração \ Demonstration***
 
 *Web*
 
-![https://rs-ignite-coffee-delivery.vercel.app/](https://img.shields.io/badge/Deploy-D14836?style=for-the-badge&logo=&logoColor=white)
+<a href="https://rs-ignite-coffee-delivery.vercel.app/" rel="nofollow">
+  <img src="https://img.shields.io/badge/Deploy-000000?style=for-the-badge&logo=vercel&logoColor=white" style="max-width: 100%;" align="center">
+</a>
 
 ![web_01](https://uploaddeimagens.com.br/images/004/305/983/original/coffee_delivery_01.PNG?1674227256)
 ![web_02](https://uploaddeimagens.com.br/images/004/305/984/original/coffee_delivery_02.PNG?1674227287)
@@ -56,9 +68,13 @@ yarn dev
   - [React JS](https://reactjs.org)
   - [React Router Dom](https://www.npmjs.com/package/react-router-dom)
   - [React Hook Form](https://react-hook-form.com/)
+  - [Axios](https://axios-http.com/ptbr/docs/intro)
   - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
   - [TypeScript](https://www.typescriptlang.org/)
   - [Phosphor Icons](https://github.com/phosphor-icons/phosphor-react)
+
+1. ***Backend***
+  - [Json Server](https://github.com/typicode/json-server)
 ---
 
 <p align="center">Obrigado pela visita. :love_you_gesture: \ Thanks for your visit. :black_heart:</p>
