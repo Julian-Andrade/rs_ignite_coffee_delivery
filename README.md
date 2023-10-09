@@ -7,7 +7,7 @@
 
 ***:clipboard: Sobre o Projeto \ About this project***
 
-Desafio realizado para o curso de React JS do Ignite da Rocketseat. Consiste em uma aplicação que simula um carrinho de compras para pedindos online. Na primeira página pode-se visualizar a listagem de cafés e adicioná-los ao carrinho de compras. Na segunda página pode ser realizado feito o checkout da compra, informando o endereço, forma de pagamento e confirmando a quantidade de cafés que deseja comprar. Na útlima página o usuário visualiza a confirmação da compra e envio do produto ao endereço de destino.
+Desafio realizado para o curso de React JS do Ignite da Rocketseat. Consiste em uma aplicação que simula um carrinho de compras para pedidos online. Na primeira página pode-se visualizar a listagem de cafés e adicioná-los ao carrinho de compras. Na segunda página pode ser realizado feito o checkout da compra, informando o endereço, forma de pagamento e confirmando a quantidade de cafés que deseja comprar. Na útlima página o usuário visualiza a confirmação da compra e envio do produto ao endereço de destino.
 
 *Challenge realized at React JS course to Rocketseat Ignite. Consists in a application that simulates a shopping cart for online orders. At the first page can visualized a list of coffees and add at shopping cart. On the second page you can make the purchase checkout, informing the address, form of payment and confirming the quantity of coffees who want to buy. On the last page the user can view the confirmation about the purchase and shipment of the product at the address.*
 
